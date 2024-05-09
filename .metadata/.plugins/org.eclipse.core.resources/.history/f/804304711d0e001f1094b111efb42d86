@@ -1,0 +1,10 @@
+package contador;
+
+public class ParametrosInvalidoException extends Exception {
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = -7938420393880928958L;
+
+}

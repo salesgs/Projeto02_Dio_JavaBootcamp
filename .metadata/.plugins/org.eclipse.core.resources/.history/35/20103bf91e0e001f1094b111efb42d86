@@ -1,0 +1,6 @@
+package contador;
+
+public class ParametrosInvalidoException extends Exception {
+
+
+}

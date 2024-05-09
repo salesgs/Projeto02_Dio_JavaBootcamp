@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;contador.ParametrosInvalidoException&apos; to &apos;ParametrosInvalidosException&apos;&#x0D;&#x0A;- Original project: &apos;fluxo&apos;&#x0D;&#x0A;- Original element: &apos;contador.ParametrosInvalidoException&apos;&#x0D;&#x0A;- Renamed element: &apos;contador.ParametrosInvalidosException&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ParametrosInvalidoException&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;contador{ParametrosInvalidoException.java[ParametrosInvalidoException" matchStrategy="1" name="ParametrosInvalidosException" qualified="false" references="true" similarDeclarations="false" stamp="1715271166521" textual="false" version="1.0"/>
+</session>

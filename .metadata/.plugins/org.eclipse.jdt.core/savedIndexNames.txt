@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\formacoes-dio\java-developer\projects\DesafioControleFulxo\.metadata\.plugins\org.eclipse.jdt.core
+1509799344.index
+3319629557.index
+1865797976.index

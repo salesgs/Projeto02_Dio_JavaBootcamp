@@ -1,0 +1,22 @@
+package contador;
+
+public class ParametrosInvalidosException extends Exception {
+
+  protected static void messageError() {
+	  System.out.println("O segundo parâmetro deve ser maior que o primeiro");
+	  
+	  try{
+		  contador(12,30);
+	  }catch(ParametrosInvalidosException e) {
+		  e.messageError();
+	  }
+  }
+  public static void contador(int numero1, int numero2 )throws ParametrosInvalidosException {
+	  if(numero1>numero2)
+		  throw new ParametrosInvalidosException();
+	  else{
+		   int cont = numero2 - numero1;
+		   for(int i=0;i<cont;++i);System.out.println("IMPRIMINDO NUMERO " +cont);
+	  }
+	}
+}
